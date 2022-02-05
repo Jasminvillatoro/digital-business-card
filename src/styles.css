@@ -1,0 +1,107 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+.App {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #23252c;
+  color: #fff;
+  font-family: 'Roboto', sans-serif;
+}
+
+.img-cnt {
+  background-image: url('./Images/Profilepic.jpeg');
+  background-position: center;
+  background-size: cover;
+  height: 317px;
+  width: 317px;
+}
+
+.card-cnt {
+  background-color: #1a1b21;
+  width: 320px;
+  height: max-content;
+  left: 65px;
+  top: 60px;
+}
+
+h1 {
+  margin-top: 24px;
+  text-align: center;
+  font-size: 25px;
+  font-weight: 500;
+}
+
+h4 {
+  margin-top: 12px;
+  color: #f3bf99;
+  text-align: center;
+}
+
+.btn-cnt {
+  margin-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+
+.contact-btn {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: #fff;
+  border: none;
+  width: 115px;
+  border-radius: 5px;
+  height: 34px;
+  margin: 8px;
+}
+
+a {
+  text-decoration: none;
+}
+.contact-btn:hover {
+  cursor: pointer;
+}
+
+.blue {
+  background-color: #5093e2;
+  color: #fff;
+}
+
+.btn-txt {
+  font-size: 12px;
+  margin-left: 4px;
+}
+
+main {
+  margin: 20px;
+}
+
+main > p {
+  margin-top: 5px;
+  font-size: 10px;
+  line-height: 14px;
+}
+
+h3 {
+  margin-top: 10px;
+}
+
+footer {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: #161619;
+  height: 64px;
+}
+
+footer > div {
+  margin: 10px;
+}
+
+footer > div:hover {
+  cursor: pointer;
+}
