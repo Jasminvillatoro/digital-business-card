@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/digital-bussiness-card/static/css/main.b31318b6.css",
+    "main.js": "/digital-bussiness-card/static/js/main.c9c8218b.js",
+    "static/media/Profilepic.jpeg": "/digital-bussiness-card/static/media/Profilepic.04a7c831f24dbf8fcd0a.jpeg",
+    "index.html": "/digital-bussiness-card/index.html",
+    "main.b31318b6.css.map": "/digital-bussiness-card/static/css/main.b31318b6.css.map",
+    "main.c9c8218b.js.map": "/digital-bussiness-card/static/js/main.c9c8218b.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b31318b6.css",
+    "static/js/main.c9c8218b.js"
+  ]
+}
