@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/digital-bussiness-card/static/css/main.fff7bf50.css",
-    "main.js": "/digital-bussiness-card/static/js/main.6a516eb3.js",
-    "static/media/Profilepic.jpeg": "/digital-bussiness-card/static/media/Profilepic.04a7c831f24dbf8fcd0a.jpeg",
-    "static/media/linkedinlogo.webp": "/digital-bussiness-card/static/media/linkedinlogo.1509a49fd0d407f5df63.webp",
-    "index.html": "/digital-bussiness-card/index.html",
-    "main.fff7bf50.css.map": "/digital-bussiness-card/static/css/main.fff7bf50.css.map",
-    "main.6a516eb3.js.map": "/digital-bussiness-card/static/js/main.6a516eb3.js.map"
+    "main.css": "/digital-business-card/static/css/main.77f42b2f.css",
+    "main.js": "/digital-business-card/static/js/main.6a4bc88b.js",
+    "static/media/Profilepic.jpeg": "/digital-business-card/static/media/Profilepic.04a7c831f24dbf8fcd0a.jpeg",
+    "static/media/linkedinlogo.webp": "/digital-business-card/static/media/linkedinlogo.1509a49fd0d407f5df63.webp",
+    "index.html": "/digital-business-card/index.html",
+    "main.77f42b2f.css.map": "/digital-business-card/static/css/main.77f42b2f.css.map",
+    "main.6a4bc88b.js.map": "/digital-business-card/static/js/main.6a4bc88b.js.map"
   },
   "entrypoints": [
-    "static/css/main.fff7bf50.css",
-    "static/js/main.6a516eb3.js"
+    "static/css/main.77f42b2f.css",
+    "static/js/main.6a4bc88b.js"
   ]
 }
