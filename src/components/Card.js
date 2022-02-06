@@ -1,13 +1,12 @@
 import email from '../Images/Mail.png';
-import linkedin from '../Images/linkedin.png';
+import linkedinlogo from '../Images/linkedinlogo.webp';
 import Footer from './Footer';
-
 import '../styles.css';
+
 const Card = () => {
   return (
     <div className="card-cnt">
       <div className="img-cnt"></div>
-
       <h1>Jasmin Villatoro</h1>
       <h4>Frontend Developer</h4>
       <div className="btn-cnt">
@@ -19,7 +18,11 @@ const Card = () => {
         </a>
         <a href="https://www.linkedin.com/in/jasmin-villatoro/">
           <button className="contact-btn blue">
-            <img src={linkedin} alt="linkedin icon" />
+            <img
+              className="linkedin-logo"
+              src={linkedinlogo}
+              alt="linkedin icon"
+            />
             <p className="btn-txt">LinkedIn</p>
           </button>
         </a>
@@ -27,20 +30,16 @@ const Card = () => {
       <main>
         <h3>About</h3>
         <p>
-          Lorem ipsum dolor sit amet consectetur adipisicing elit. Perspiciatis
-          ea dignissimos nam, minima reiciendis velit excepturi vero maxime
-          exercitationem? Soluta ullam saepe ex deleniti maiores voluptas
-          recusandae, veritatis quod quia. Eaque esse voluptatum voluptatem
-          optio ipsa molestiae accusantium magnam fugiat temporibus sapiente
-          vero atur quibusdam ipsa fugit esse,
+          I am a Frontend Developer who loves to create beautiful User
+          Interfaces. I am a friendly and humble person. I'm currently expanding
+          my knowledge of Html, Css, Javascript, and React by building personal
+          projects for my portfolio.
         </p>
         <h3>Interests</h3>
         <p>
-          Lorem, ipsum dolor sit amet consectetur adipisicing elit. Nulla
-          blanditiis saepe autem, sed alias recusandae, aspernatur numquam quos
-          consequuntur eos neque quo veniam vero nesciunt impedit laboriosam,
-          modi ex repudiandae? Voluptatibus libero corporis neque voluptas quis,
-          facilis aliquid fugiat nesciunt, quia deserunt ratione cumque ea v
+          I like a little bit of everything, especially if it piques my
+          curiosity. Reading, Technology, Movies, Animation, Cultures,
+          Documentaries, Outdoors, and most importantly Food.
         </p>
       </main>
       <Footer />
